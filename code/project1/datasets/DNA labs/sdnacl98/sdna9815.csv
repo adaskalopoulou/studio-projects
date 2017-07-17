@@ -1,0 +1,24 @@
+"Bureau of Justice Statistics",,,
+"filename:  sdna9815.csv",,,
+"Table 15.  DNA laboratory sample receipt and case processing, 1998",,,
+"title:  Survey of DNA Crime Laboratories, 1998 NCJ # 179104",,,
+"data source:  Survey of DNA Crime Laboratories, 1998",,,
+"author:  Greg W. Steadman",,,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,,
+"date of version:  2/14/00",,,
+,,,
+"Table 15.  DNA laboratory sample receipt and case processing, 1998",,,
+,,,
+,"Total","Analyze DNA cases/samples",
+,"responses","Number","Percent"
+,,,
+"Convicted offender samples",,,
+"    Receive blood",28,25,89%
+"    Receive saliva",28,5,18%
+"    Receive other samples",28,2,7%
+,,,
+"Casework evidence",,,
+"    Policy to minimize samples taken per case",106,35,33%
+"    Test adjacent cutting",107,53,50%
+"    Notify when all amterial used up",108,64,59%
+"    Save sample for retesting",108,92,85%

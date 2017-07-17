@@ -1,0 +1,31 @@
+"Bureau of Justice Statistics",,
+"filename:  sdna9801.csv",,
+"Table 1.  Forensic crime laboratory responsibilities, 1998",,
+"title:  Survey of DNA Crime Laboratories, 1998 NCJ # 179104",,
+"data source:  Survey of DNA Crime Laboratories, 1998 ",,
+"author:  Greg W. Steadman",,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,
+"date of version:  2/14/00",,
+,,
+"Table 1.  Forensic crime laboratory responsibilities, 1998",,
+,,
+,"Crime Laboratories",
+"Areas of analysis","Number","Percent"
+,,
+"    Total",125,100%
+,,
+"Firearms/toolmark/footwear/tireprint",102,82%
+"Trace analysis",94,75%
+"Latent prints",76,61%
+"Fire debris",82,66%
+"Explosive residue",53,42%
+"Controlled substance",107,86%
+"Conventional serology",79,63%
+"Toxicology",51,41%
+"Blood alcohol",69,55%
+"Questioned documents",59,47%
+"Computer crime investigation",11,9%
+"Crime scene",83,66%
+"Other",19,15%
+,,
+"Note:  Details do not add to total because of multiple responses.",,

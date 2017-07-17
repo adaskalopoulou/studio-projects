@@ -1,0 +1,23 @@
+"Bureau of Justice Statistics",,
+"filename:  sdna98t3.csv",,
+"Text table 3.  DNA laboratory initiatives to relieve case backlog, 1998",,
+"title:  Survey of DNA Crime Laboratories, 1998 NCJ # 179104",,
+"data source:  Survey of DNA Crime Laboratories, 1998 ",,
+"author:  Greg W. Steadman",,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,
+"date of version:  2/14/00",,
+,,
+"Text table 3.  DNA laboratory initiatives to relieve case backlog, 1998",,
+,,
+,"Labs with reported",
+,"casework backlogs",
+"Initiatives","Number","Percent"
+,,
+"    Total",74,100%
+,,
+"Hired additional staff",40,54%
+"Used overtime",31,42%
+"Contracted with private labs",12,16%
+"Other",23,31%
+,,
+"Note: Details do not add to total because of multiple responses.",,

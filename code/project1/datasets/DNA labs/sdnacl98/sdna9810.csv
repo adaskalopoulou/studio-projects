@@ -1,0 +1,27 @@
+"Bureau of Justice Statistics",,,,,,,
+"filename:  sdna9810.csv",,,,,,,
+"Table 10.  Status of case workloads in DNA laboratories, by type of case, 1996-97",,,,,,,
+"title:  Survey of DNA Crime Laboratories, 1998 NCJ # 179104",,,,,,,
+"data source:  Survey of DNA Crime Laboratories, 1998 ",,,,,,,
+"author:  Greg W. Steadman",,,,,,,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,,
+"date of version:  2/14/00",,,,,,,
+,,,,,,,
+"Table 10.  Status of case workloads in DNA laboratories, by type of case, 1996-97",,,,,,,
+,,,,,,,
+,"Labs","Cases received",,"Cases analyzed",,"Backlog of cases",
+"Areas of analysis","reporting","Total(a)","Median","Total(a)","Median","Total(a)","Median"
+,,,,,,,
+"1996",,,,,,,
+"    Known subject cases",58,11479,138,8812,100,"(b)","(b)"
+"    Unknown subject cases",49,3663,22,1339,10,"(b)","(b)"
+"    Convicted offender",66,71926,"(c)",36893,"(c)","(b)","(b)"
+,,,,,,,
+"1997",,,,,,,
+"    Known subject cases",75,15595,126,12095,99,2738,"(c)"
+"    Unknown subject cases",62,5198,30,2194,7,4062,36
+"    Convicted offender",69,115681,"(c)",44810,"(c)",286819,"(c)"
+,,,,,,,
+"(a) Totals include State-level responses not used in calculating medians.",,,,,,,
+"(b) Backlogs not reported for 1996.",,,,,,,
+"(c) More than half reported none.",,,,,,,

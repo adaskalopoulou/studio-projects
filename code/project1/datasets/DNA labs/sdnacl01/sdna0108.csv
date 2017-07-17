@@ -1,0 +1,27 @@
+"Bureau of Justice Statistics",,,,,,,,,,
+"Filename: sdna0108.csv",,,,,,,,,,
+"Table 8.  Status of case workloads in DNA crime laboratories,  by type of case, 1999-2000",,,,,,,,,,
+"Title of Report:  Survey of DNA Crime Laboratories, 2001, NCJ-191191",,,,,,,,,,
+"Data source:  National Survey of DNA Laboratories, 2001",,,,,,,,,,
+"Author:  Greg Steadman",,,,,,,,,,
+"Refer questions to: (202) 307-0765 or askbjs@ojp.usdoj.gov",,,,,,,,,,
+"Date version:  01/31/02",,,,,,,,,,
+,,,,,,,,,,
+"Table 8.  Status of case workloads in DNA crime laboratories,  by type of case, 1999-2000",,,,,,,,,,
+,,,,,,,,,,
+,"Labs",,"Cases received",,,"Cases analyzed",,,"Backlog of cases",
+"Year and type of case","reporting",,"Total*","Median",,"Total*","Median",,"Total*","Median"
+1999,,,,,,,,,,
+"    Casework*",81,,20707,186,,15884,110,,"--","--"
+"    Known subject cases",77,,13809,130,,10987,78,,"--","--"
+"    Unknown subject cases",77,,4155,23,,2408,10,,"--","--"
+"    Convicted offender",92,,100242,0,,61036,0,,"--","--"
+,,,,,,,,,,
+2000,,,,,,,,,,
+"    Casework*",88,,31394,244,,24790,176,,15981,65
+"    Known subject cases",83,,18125,187,,14999,120,,5068,28
+"    Unknown subject cases",83,,7244,46,,4070,23,,5606,10
+"    Convicted offender",91,,177184,0,,148347,0,,265329,0
+,,,,,,,,,,
+"*Casework totals include laboratories that could not separate known and unknown subject cases. ",,,,,,,,,,
+"--Backlogs not reported for 1999.  ",,,,,,,,,,

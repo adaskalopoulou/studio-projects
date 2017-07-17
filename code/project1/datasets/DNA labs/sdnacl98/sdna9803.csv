@@ -1,0 +1,23 @@
+"Bureau of Justice Statistics",,
+"filename:  sdna9803.csv",,
+"Table 3.  DNA laboratory accreditations, 1998",,
+"title:  Survey of DNA Crime Laboratories, 1998 NCJ # 179104",,
+"data source:  Survey of DNA Crime Laboratories, 1998 ",,
+"author:  Greg W. Steadman",,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,
+"date of version:  2/14/00",,
+,,
+"Table 3.  DNA laboratory accreditations, 1998",,
+,,
+,"Labs performing DNA analyses",
+,"Number","Percent of labs"
+,,
+"Laboratory accredited",60,56%
+"    ASCLD-LAB",56,52%
+"    NSFTC",3,3%
+"    Other",3,3%
+"Applied for accreditation",13,12%
+"Pre-accreditation inspection",6,6%
+"None",29,27%
+,,
+"Note:  Percentages do not add to 100% because of rounding.  Labs may report multiple accreditations.",,

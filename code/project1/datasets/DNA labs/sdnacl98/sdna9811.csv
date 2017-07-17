@@ -1,0 +1,31 @@
+"Bureau of Justice Statistics",,,
+"filename:  sdna9811.csv",,,
+"Table 11.  DNA analysis cases contracted to private laboratories, by type of case, 1996-97",,,
+"title:  Survey of DNA Crime Laboratories, 1998 NCJ # 179104",,,
+"data source:  Survey of DNA Crime Laboratories, 1998 ",,,
+"author:  Greg W. Steadman",,,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,,
+"date of version:  2/14/00",,,
+,,,
+"Table 11.  DNA analysis cases contracted to private laboratories, by type of case, 1996-97",,,
+,,,
+,"Number","Total","Median number"
+"Year and type of case","of labs","cases","of DNA cases"
+,,,
+"Cases contracted in 1996",,,
+"    Known subject",21,30,"--"
+"    Unknown subject",21,293,6
+"    Convicted offender",21,5571,"--"
+,,,
+"Cases contracted in 1997",,,
+"    Known subject",26,68,"--"
+"    Unknown subject",26,321,5
+"    Convicted offender",26,17740,"--"
+,,,
+"Backlog of contracted cases ",,,
+"at the end of 1997",,,
+"    Known subject",3,1,"--"
+"    Unknown subject",3,7,2
+"    Convicted offender",3,9593,492
+,,,
+"-- More than half the labs reported none.",,,

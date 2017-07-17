@@ -1,0 +1,22 @@
+"Bureau of Justice Statistics",,,,
+"filename:  sdna9804.csv",,,,
+"Table 4.  Annual budgets for forensic laboratories and for DNA laboratories, 1997-98",,,,
+"title:  Survey of DNA Crime Laboratories, 1998 NCJ # 179104",,,,
+"data source:  Survey of DNA Crime Laboratories, 1998",,,,
+"author:  Greg W. Steadman",,,,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,,,
+"date of version:  2/14/00",,,,
+,,,,
+"Table 4.  Annual budgets for forensic laboratories and for DNA laboratories, 1997-98",,,,
+,,,,
+,"Number of",,,
+,"budgets","Annual laboratory budgets",,
+,"reported","Mean","Minimum","Maximum"
+,,,,
+"Total forensic laboratory",,,,
+"    1997",79,$2608000,$15000,$14300000
+"    1998",82,$2889000,$30000,$16900000
+,,,,
+"DNA laboratory",,,,
+"    1997",41,$556000,$5000,$3954000
+"    1998",45,$654000,$2000,$4106000

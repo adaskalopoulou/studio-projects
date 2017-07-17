@@ -1,0 +1,30 @@
+"Bureau of Justice Statistics",,,,
+"Filename: sdna0106.csv",,,,
+"Table 6.  Crime laboratories with full-time DNA staff, 2001",,,,
+"Title of Report:  Survey of DNA Crime Laboratories, 2001, NCJ-191191",,,,
+"Data source:  National Survey of DNA Laboratories, 2001",,,,
+"Author:  Greg Steadman",,,,
+"Refer questions to: (202) 307-0765 or askbjs@ojp.usdoj.gov",,,,
+"Date version:  01/31/02",,,,
+,,,,
+"Table 6.  Crime laboratories with full-time DNA staff, 2001",,,,
+,,,,
+,"Number of  ",,,
+,"labs reporting","Full-time DNA staff members",,
+,"staff size*","Total","Median","  Maximum"
+"     Total",110,893,6,60
+,,,,
+"Administration",,,,
+"    Admin. Manager",110,55,"--",5
+"    CODIS manager",110,27,"--",1
+"    Support staff",110,29,"--",4
+,,,,
+"Technical staff",,,,
+"    Manager/leader",110,78,1,2
+"    Examiner/analyst",110,590,4,43
+"    Technician",110,72,0,8
+"    Lab support",110,42,"--",7
+,,,,
+"*Table includes laboratories with DNA staff doing screenings and test validations,  but not yet performing DNA analyses.  ",,,,
+"Not all DNA labs reported staff size. ",,,,
+"-- More than half the laboratories reported none.",,,,

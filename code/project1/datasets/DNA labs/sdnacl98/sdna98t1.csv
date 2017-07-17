@@ -1,0 +1,19 @@
+"Bureau of Justice Statistics",
+"filename:  sdna98t1.csv",
+"Text table 1.  DNA laboratory standard guidelines, 1998",
+"title:  Survey of DNA Crime Laboratories, 1998 NCJ # 179104",
+"data source:  Survey of DNA Crime Laboratories, 1998 ",
+"author:  Greg W. Steadman",
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",
+"date of version:  2/14/00",
+,
+"Text table 1.  DNA laboratory standard guidelines, 1998",
+,
+,"Labs reported"
+"Procedural standards","Using standards"
+,
+"DAB",27
+"TWGDAM",13
+"DAB and TWGDAM",63
+"DAB, TWGDAM and other",3
+"Other",1

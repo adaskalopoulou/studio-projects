@@ -1,0 +1,25 @@
+"Bureau of Justice Statistics",,,,
+"filename:  sdna9808.csv",,,,
+"Table 8.  Starting salaries in DNA laboratories, by type of position, 1998",,,,
+"title:  Survey of DNA Crime Laboratories, 1998 NCJ # 179104",,,,
+"data source:  Survey of DNA Crime Laboratories, 1998 ",,,,
+"author:  Greg W. Steadman",,,,
+"refer questions to:  askbjs@ojp.usdoj.gov (202) 307-0765",,,,
+"date of version:  2/14/00",,,,
+,,,,
+"Table 8.  Starting salaries in DNA laboratories, by type of position, 1998",,,,
+,,,,
+,"Number of","DNA laboratory staff",,
+,"DNA laborato-","starting salaries",,
+,"ries reporting","Median","Minimum","Maximum"
+,,,,
+"Administration",,,,
+"    Admin. manager",50,$49431,$24864,$83976
+"    CODIS manager",16,$39596,$24000,$66400
+"    Support staff",9,$19548,$16000,$50000
+,,,,
+"Technical staff",,,,
+"    Manager/leader",49,$45000,$28000,$66400
+"    Examiner/analyst",73,$34831,$23650,$58000
+"    Technician",37,$24677,$15400,$37343
+"    Lab support",19,$22000,$18000,$28548
