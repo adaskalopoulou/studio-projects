@@ -1,8 +1,37 @@
-to solve
-
-mitochondrial DNA
 
 
+
+
+still need to explain:
+
+"DNA evidence is so powerful because it has firm roots in science and is backed by statistics." 
+
+
+BIOLOGY
+mitochondrial DNA introduction to the processes
+
+MIXTURE
+
+CONTAMINATION
+
+PROBABILITIES
+
+- "random match probability", the chance that if you pick a person at random they would match this DNA sample.
+
+
+SOCIAL IMPACT
+age of victims, years lost, adolescence, Sutton's case
+
+BENEFITS TO BE AKNOWLEDGED
+- "cold case": take from police closets all kinds of objects, bloody shirt and test it for DNA
+
+OTHER SCIENCE PROBLEMS:
+Am I going to explore them? 
+ex. hair analyis
+
+
+
+-----------
 
 datasets
 https://www.law.umich.edu/special/exoneration/Pages/mission.aspx
