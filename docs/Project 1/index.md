@@ -16,7 +16,7 @@ Surveys about the operations of forensic crime laboratories (publicly operated) 
 Yet, recently, geneticists start to question the accuracy of DNA forensics. Thanks to advances, such as the use of PCR (polymerase chain reaction, a simple yet elegant technique invented in 1983 by the maverick scientist Kary Mullis, who was awarded the Nobel Prize in chemistry in 1993), it was possible to detect tiny pieces of DNA, up to a thousand times smaller than DNA analysis of the past. However, PCR's exquisite sensitivity is believed to have backfired. The technique that once was the infallible wise man of forensics probably becomes the most dangerous conviction tool.
 Data from the Innocent Project (a non-profit legal organization whose aim is to exonerate wrongly convicted individuals through the use of DNA techniques) show that in a dozen cases the type of forensic science problem linked to the wrongful conviction was the DNA testing itself. I plan to ask this data set the same questions posed before (to National Registry of Exonerations database) and find differences and similarities. Has the champion of forensic science been caught doping?
 
-![](boring-graph 10copy.png)
+![](boring-graph-10copy.png)
 
 Modern forensic science is in the midst of a crisis. One had seen enough of prime-time TV would believe that the power of DNA in pointing to the one and only person that committed a crime is indisputable. However, lately, it seems that this has never been the case. The FBI goes back and reopens thousands of cases and redoes the analysis and the math to determine whether indeed the people that were convicted are a real “match”.
 
