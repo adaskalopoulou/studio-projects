@@ -1,10 +1,3 @@
----
-
-title: About
-permalink: /about
-
----
-
 Aspasia is a science and medical journalist at the Greek daily newspaper Kathimerini and a member of the nonprofit enterprise “SciCo”, whose aim is to communicate scientific issues to the public via innovative and entertaining ways.
 
 She is covering just about every field of science, from astrophysics and mathematics, to biosciences and neuroscience. Beyond a simple recounting of the important milestones of science, her primary aim, has always been to present a holistic approach to science and highlight the crucial impact that fundamental scientific research has on the advancement of society and the welfare of humanity, as a whole.
