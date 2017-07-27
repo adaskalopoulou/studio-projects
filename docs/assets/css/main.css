@@ -11,9 +11,9 @@
 #nav {
   position: absolute;
   top: 10px;
-  left: 10px;
-  text-align: left;
-  width: 150%;
+  right: 10px;
+  text-align: right;
+  width: 100%;
 }
 
 h1 {
@@ -25,12 +25,12 @@ h2 {
 }
 
 p {
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1.8;
 }
 
 li {
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1.8;
 }
 
@@ -41,7 +41,3 @@ a {
   color: #333;
 }
 
-img.center {
-    display: block;
-    margin: 0 auto;
-}
