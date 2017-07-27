@@ -4,6 +4,7 @@
   margin: 0 auto;
   padding-bottom: 60px;
   padding-top: 60px;
+  padding-right: 10px;
   font-family: Inconsolata, monospace;
   position: relative;
 }
@@ -11,9 +12,8 @@
 #nav {
   position: absolute;
   top: 10px;
-  left: 2px;
   right: 10px;
-  text-align: left;
+  text-align: right;
   width: 100%;
 }
 
