@@ -2,8 +2,8 @@
   width: 1050px;
   color: #333;
   margin: 0 auto;
-  padding-bottom: 60px;
-  padding-top: 60px;
+  padding-bottom: 40px;
+  padding-top: 40px;
   font-family: Inconsolata, monospace;
   position: relative;
 }
@@ -25,12 +25,12 @@ h2 {
 }
 
 p {
-  font-size: 14px;
+  font-size: 10px;
   line-height: 1.8;
 }
 
 li {
-  font-size: 14px;
+  font-size: 10px;
   line-height: 1.8;
 }
 
