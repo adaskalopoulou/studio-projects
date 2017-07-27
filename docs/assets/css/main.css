@@ -40,3 +40,8 @@ a {
   padding: 3px 6px;
   color: #333;
 }
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
