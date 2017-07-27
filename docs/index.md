@@ -4,10 +4,10 @@ layout: default
 
 ---
 
-# Hi, I'm YOUR NAME HERE
+# Hi, I'm Aspasia Daskalopoulou
 
 This is my site of projects for the [Lede Program](http://ledeprogram.com)
 
-* [Project 1]({{ site.url }}/a-very-cool-project): Lorem ipsum
-* [Project 2]({{ site.url }}/Project\ 1): Lorem ipsum
-* [Project 3]({{ site.url }}/a-very-cool-project): Lorem ipsum
+* [When DNA is wrong]({{ site.url }}/project-1): Lorem ipsum
+* [Project 2]({{ site.url }}/...): Lorem ipsum
+* [Project 3]({{ site.url }}/....): Lorem ipsum
