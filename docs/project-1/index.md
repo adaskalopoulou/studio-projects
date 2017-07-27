@@ -1,5 +1,6 @@
+## Project 1
 
-## When DNA is wrong: The champion of forensic science in doubt
+# When DNA is wrong: The champion of forensic science in doubt
 
 DNA forensics first made its way into the US courts in 1986 and, up until now, has helped exonerate almost 1/4 of the total innocent individuals (2060 in total) listed in the National Registry of Exonerations database. The accuracy of the technology has made DNA evidence virtually indisputable. A 2009 report from the National Research Council, described DNA as the only forensic science worthy of the name.
 
