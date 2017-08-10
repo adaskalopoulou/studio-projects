@@ -1,0 +1,22 @@
+# Update
+  
+## Content
+  I created a database that covers all the years after 1950 with all the new brick colors introduced every year. After the illustrator skills that I will gain today I plan to visualize it on a "Grouped symbol" plot. 
+I mined information from Lego's annual financial reports and created a database that includes the company's profit and the number of employees for all the years after 2005. I plotted the profit over time and I have looked into the different Lego sets that were introduced in the turning point years of the company's profitability. My first impression from analyzing the data
+
+
+
+## Any changes in direction or topic?
+In the question: "How do Lego colors change over the years?" I decided to focus only on the new colors introduced every year/ or maybe decade, and try to compare them with the colors that were in fashion during that decade. 
+
+
+## Problems/Questions
+  My main difficulty has been finding a digital tool that will help me create the plot using lego bricks and then export the output in an Illustrator-compatible format. I have tried using "Lego Digital Designer" and "Bricksmith". "Lego Digital Designer" doesn't provide the user with all the color variety that I will need to create a historical color plot, as it only includes the colors that are in manufacture today. "Bricksmith" on the other side has all the colors but the output is a .ldr file, from which it has been imposible to export a .png or .pdf file.
+
+## Checklist
+  
+- [ ] I have included my visuals
+- [ ] I have added writing about my topic
+- [ ] I have been updating my DIARY.md with details about my process
+- [ ] I have uploaded/updated any Jupyter Notebooks or other datasets into my code repository
+- [ ] I have received two comments of peer feedback on my project update
