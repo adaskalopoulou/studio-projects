@@ -29,5 +29,5 @@ Over the course of the last decades, the majority of the sets produced by LEGO w
 
 
 
-![](colors.png)
+![](colors2.png)
 
