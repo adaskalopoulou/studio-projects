@@ -34,5 +34,5 @@ In 1950, LEGO used ten colors for its bricks. Today, the LEGO sets include brick
 ---
 
 
-![](color2@2x.png)
+![](color2.png)
 
