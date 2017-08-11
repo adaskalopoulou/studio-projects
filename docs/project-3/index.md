@@ -1,6 +1,6 @@
 ## Project 3
 
-# LEGO: 
+# LEGO over the decades 
 
 ## Profits and sets
 
