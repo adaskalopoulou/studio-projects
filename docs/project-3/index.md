@@ -14,7 +14,7 @@ Over the course of the last decades, the majority of the sets produced by LEGO w
 ---
 
 
-![](print_business2.png)
+![](print_business4.png)
 
 ---
 
