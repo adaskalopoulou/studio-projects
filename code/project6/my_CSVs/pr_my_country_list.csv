@@ -1,0 +1,36 @@
+frequency,name,rank,topic
+17,USA,1,climate
+17,USA,2,accommodation
+16,USA,3,rail
+15,USA,4,road
+13,USA,5,tourism
+8,China,1,industry
+7,China,2,housing
+6,China,3,history
+6,China,4,education
+6,China,5,health and medicine
+7,France,1,education
+5,France,2,entertainment
+5,France,3,letters
+4,France,4,shopping
+4,France,5,food
+4,Philippines,1,customs
+4,Philippines,2,clothing
+3,Philippines,3,housing
+3,Philippines,4,education
+3,Philippines,5,accommodation
+2,India,1,travel writing
+2,India,2,road
+2,India,3,natural history
+2,India,4,health and medicine
+2,India,5,climate
+3,Egypt,1,diaries
+3,Egypt,2,work
+3,Egypt,3,clothing
+3,Egypt,4,art
+3,Egypt,5,education
+2,Italy,1,art
+2,Italy,2,monuments
+2,Italy,3,accommodation
+2,Italy,4,tourism
+2,Italy,5,ancient ruins

@@ -1,0 +1,36 @@
+frequency,name,rank,topic,abv
+17,USA,1,accommodation,US
+16,USA,2,rail,US
+16,USA,3,climate,US
+15,USA,4,road,US
+13,USA,5,tourism,US
+8,China,1,industry,CN
+7,China,2,housing,CN
+6,China,3,history,CN
+6,China,4,education,CN
+6,China,5,health and medicine,CN
+7,France,1,education,FR
+6,France,2,letters,FR
+5,France,3,entertainment,FR
+5,France,4,family life,FR
+4,France,5,shopping,FR
+5,Philippines,1,customs,PH
+5,Philippines,2,clothing,PH
+4,Philippines,3,housing,PH
+4,Philippines,4,education,PH
+4,Philippines,5,accommodation,PH
+4,India,1,travel writing,IN
+4,India,2,natural history,IN
+4,India,3,health and medicine,IN
+4,India,4,climate,IN
+3,India,5,diaries,IN
+3,Egypt,1,diaries,EG
+3,Egypt,2,work,EG
+3,Egypt,3,clothing,EG
+3,Egypt,4,art,EG
+3,Egypt,5,education,EG
+2,Italy,1,art,IT
+2,Italy,2,monuments,IT
+2,Italy,3,accommodation,IT
+2,Italy,4,tourism,IT
+2,Italy,5,ancient ruins,IT
