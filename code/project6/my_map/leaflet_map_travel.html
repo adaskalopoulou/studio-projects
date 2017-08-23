@@ -2,7 +2,7 @@
 <html>
 <head>
 	
-	<title>Mediterranean Marine Invasive Species</title>
+	<title>Travel Writing by Women</title>
 
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -28,16 +28,14 @@ TO MAKE YOUR FONTS AND LAYOUTS NICE AND LOVELY
     width: 0px;  /* remove scrollbar space */
     background: transparent;  /* optional: just make scrollbar invisible */
 }
-
-  #Intro {position: absolute; left: 165px; top: 20px; margin:15px; width: 750px; height: 100px; overflow: scroll; font: 14px/16px Bookman, sans-serif;
+	#map {position: absolute; top: 20px; left: 20px; width: 1050px; height: 350px; z-index:1; }
+	#Intro {position: absolute; left: 20px; top: 380px; margin:15px; width: 300px; height: 500px; overflow: scroll; font: 14px/16px Zilla Slab, sans-serif;
     overflow-x: hidden; z-index:5;} 
-
-	#map {position: absolute; top: 170px; left: 20px; width: 1050px; height: 550px; z-index:1; }
-
   #articlePlace {position: absolute; left: 390px; top: 410px; margin:15px; width: 300px; height: 500px; overflow: scroll; font: 14px/16px Zilla Slab, sans-serif;
-    overflow-x: hidden; z-index:5;}   
-
-
+    overflow-x: hidden; z-index:5;} 
+  #linkPlace {position: absolute; left: 780px; top: 410px; margin:15px; width: 250px; height: 500px; overflow: scroll; font: 14px/16px Zilla Slab, sans-serif;
+    overflow-x: hidden; z-index:5;} 
+    #select-menu{position: absolute; left: 80px; top: 30px;  z-index:10;} 
 .info { padding: 6px 8px; font: 14px/16px Arial, Helvetica, sans-serif; background: white; background: rgba(255,255,255,0.8); box-shadow: 0 0 15px rgba(0,0,0,0.2); border-radius: 5px; } .info h4 { margin: 0 0 5px; color: #777; }
 .legend { text-align: left; line-height: 18px; color: #555; } .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; opacity: 0.7; }
 </style>
@@ -51,7 +49,7 @@ TO MAKE YOUR FONTS AND LAYOUTS NICE AND LOVELY
 <!-- 
 HERE IS MY VERY UNBEAUTIFUL BUT FUNCTIONALLY AWESOME DROP-DOWN MENU
 THE ID select–menu IS USED BY THE JQUERY FUNCTION WAY DOWN AT THE BOTTOM
-
+ -->
 <div id="dropdown">
 <select id="select-menu">
             
@@ -61,39 +59,30 @@ THE ID select–menu IS USED BY THE JQUERY FUNCTION WAY DOWN AT THE BOTTOM
 
  </select>
 </div>
- -->
-
 <!-- 
 THE TWO DIVS BELOW ARE SUPER IMPORTANT: THEY ARE WHERE THE MAP WILL GO, AND YOUR ARTICLE TEXT WILL GO
 YOU WILL CERTAINLY WANT TO STYLE THESE, BOTH THEIR PLACEMENT AND CONTENT 
 WHEN YOU'RE DONE WITH ALL THE FANCY FUNCTIONALITY
  -->
 <div id='map'></div>
-<div id='Intro'><p><b>Explore the marine aliens species of the Mediterranean Sea</b><p>The species mapped are listed in the IUCN's <a href="http://www.griis.org/">Global Register of Introduced and Invasive Species</a> as the ones that have confirmed impacts in the marine ecosystems.
+<div id='Intro'><p><b><a href="http://www.travelwriting.amdigital.co.uk/" target="_blank" rel="noopener noreferrer">Travel Writing, Spectacle and World History </a></b><p>This resource brings together over two hundred accounts by women of their travels across the globe from the early 19th century to the late 20th century.<p> The earliest document is a letter from 1818. The latest group of documents are Ida Pruitt’s notes and correspondence from the early 1970s concerning visits to China.<p> This resource has been created by the The Radcliffe Institute for Advanced Study at Harvard University and the Schlesinger Library at Harvard University. 
 
 </div>
 
 <div id='articlePlace'>
 
 </div>
-<!-- 
-GOES AFTER THE ARTICLE PLACE:
-  #linkPlace {position: absolute; left: 780px; top: 410px; margin:15px; width: 250px; height: 500px; overflow: scroll; font: 14px/16px Zilla Slab, sans-serif;
-    overflow-x: hidden; z-index:5;} 
-    #select-menu{position: absolute; left: 80px; top: 30px;  z-index:10;} 
 
 <div id='linkPlace'>
 
 </div>
-
- -->
 <!-- 
 THIS IS WHERE THE BROWSER LOADS IN YOUR GEO JASON INFORMATION
 MAKING IN A JAVASCRIPT FILE, RATHER THAN A GEO JASON FILE
 ALLOWS YOU TO LOAD IT LOCALLY WITHOUT DEALING WITH SETTING UP SERVERS ON YOUR MACHINE.
  -->
 
-<script type="text/javascript" src="us-states.js"></script>
+<script type="text/javascript" src="world.js"></script>
 
 <!-- 
 HERE BEGINS ALL THE SCRIPT THAT SETS UP THE MAP 
@@ -104,17 +93,19 @@ ALL THE COMMENTS FROM HERE WE'LL BE IN JAVASCRIPT COMMENTS //
 
 // THIS INITIALIZES THE FIRST VARIABLE CALLED MAP, AND SETS THE VIEW
 
-
-	var map = L.map('map').setView([38.7, 14.5], 4.5);
+var map = L.map('map').setView([32, 7], 2);
 
 // THIS SETS THE BASE LAYER OF THE MAP -- USING BACKGROUND TILES
 
-var Esri_WorldTerrain = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer/tile/{z}/{y}/{x}', {
-  attribution: 'Tiles &copy; Esri &mdash; Source: USGS, Esri, TANA, DeLorme, and NPS',
-  maxZoom: 13
+var watercolor = L.tileLayer('http://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.{ext}', {
+  attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+  subdomains: 'abcd',
+  minZoom: 1,
+  maxZoom: 16,
+  ext: 'png'
 });
 
-  Esri_WorldTerrain.addTo(map);
+  watercolor.addTo(map);
 
 
 // THESE LINES ADD THE LITTLE INFO WINDOW IN THE UPPER RIGHT CORNER 
@@ -130,9 +121,9 @@ var Esri_WorldTerrain = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/
 	};
 
 	info.update = function (props) {
-		this._div.innerHTML = '<h4>For number of distinct invasive species</h4>' +  (props ?
+		this._div.innerHTML = '<h4>The most popular topic by country</h4>' +  (props ?
 			'<b>' + props.name + '</b><br />' + props.lede
-			: 'Hover over a water body');
+			: 'Hover over a country');
 	};
 
 	info.addTo(map);
@@ -222,16 +213,14 @@ var selectedGroup = 0
 		style: style,
 		onEachFeature: onEachFeature
 	}).eachLayer(function (layer) {
+            if (layer.feature.properties.group_id == selectedGroup) {
             map.addLayer(layer);
-            
+            }
         });
 
 //map.fitBounds(geojson.getBounds(), {padding:[-120,-120]})
 
 </script>
-
-<!-- 
-
 <script>
 // BELOW IS A JQUERY FUNCTION THAT THE TEXT CHANGES IN THE DROP-DOWN MENU
 // AND EXECUTES CHANGES ON THE MAP BASED ON THE GROUP ID OF YOUR SHAPES
@@ -241,19 +230,18 @@ var selectedGroup = 0
         
         geojson.eachLayer(function (layer) {
             if (layer.feature.properties.group_id != selectedGroup) {
-            // If the layer's id is different from the selected one, remove it from the map
-            map.removeLayer(layer);
-            }
-            else {
-            // Otherwise add it do the map
-            map.addLayer(layer);
+              // If the layer's id is different from the selected one, remove it from the map
+              map.removeLayer(layer);
+            } else {
+              // Otherwise add it do the map
+              map.addLayer(layer);
             }
         });
     });
     });
 
 </script>
- -->
+
 
 </body>
 </html>

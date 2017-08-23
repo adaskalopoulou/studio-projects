@@ -34,7 +34,6 @@ user_id,current_weight,current_height,salads_per_week,veggies_fruits_per_day,hea
 53,145.0,70.0,0.0,2.0,Healthy,4.0,0.0,Never,2008.09
 14,180.0,73.0,0.0,0.0,Unhealthy,0.0,0.0,Never,2008.09
 25,205.0,72.0,0.0,0.0,Below average,1.0,0.0,Never,2008.09
-61,0.0,1985.0,9.0,1.0,Below average,0.0,1.0,5,2008.09
 33,163.0,68.0,1.0,1.0,Below average,0.0,0.0,Never,2008.09
 60,115.0,63.0,3.0,3.0,Healthy,7.0,5.0,Never,2008.09
 48,198.0,60.0,0.0,2.0,Unhealthy,0.0,0.0,Never,2008.09
@@ -49,7 +48,6 @@ user_id,current_weight,current_height,salads_per_week,veggies_fruits_per_day,hea
 54,112.0,68.0,1.0,4.0,Average,2.0,0.0,Never,2008.09
 2,145.0,66.0,2.0,3.0,Below average,3.0,1.0,Never,2008.09
 56,135.0,65.0,2.0,2.0,Unhealthy,3.0,0.0,Never,2008.09
-5,0.0,1805.0,9.0,2.0,Unhealthy,0.0,2.0,2,2008.09
 20,115.0,71.0,2.0,2.0,Healthy,5.0,0.0,Never,2008.09
 57,240.0,68.0,1.0,2.0,Below average,1.0,1.0,Never,2008.09
 58,170.0,73.0,3.0,1.0,Healthy,1.0,2.0,Never,2008.09
@@ -86,7 +84,6 @@ user_id,current_weight,current_height,salads_per_week,veggies_fruits_per_day,hea
 40,160.0,68.0,1.0,2.0,Below average,0.0,0.0,Never,2009.06
 31,315.0,70.0,3.0,2.0,Average,2.0,0.0,Never,2009.06
 45,117.0,61.0,1.0,1.0,Healthy,6.0,6.0,Never,2009.06
-61,163.0,69.0,0.0,2.0,Below average,2.0,1.0,Never,2009.06
 44,140.0,64.0,2.0,2.0,Healthy,4.0,0.0,Never,2009.06
 28,148.0,69.0,1.0,7.0,Unhealthy,0.0,0.0,Never,2009.06
 62,120.0,67.0,2.0,1.0,Average,2.0,0.0,Never,2009.06
@@ -117,7 +114,6 @@ user_id,current_weight,current_height,salads_per_week,veggies_fruits_per_day,hea
 80,120.0,62.0,3.0,6.0,Average,4.0,0.0,Never,2009.06
 54,116.0,68.0,4.0,3.0,Healthy,1.0,0.0,Never,2009.06
 68,130.0,67.0,3.0,6.0,Healthy,4.0,0.0,Never,2009.06
-5,140.0,69.0,4.0,3.0,Healthy,0.0,3.0,Never,2009.06
 75,195.0,73.0,0.0,2.0,Average,1.0,0.0,Never,2009.06
 10,185.0,67.0,2.0,2.0,Average,2.0,1.0,Never,2009.06
 20,115.0,71.0,2.0,1.0,Below average,0.0,0.0,Never,2009.06
