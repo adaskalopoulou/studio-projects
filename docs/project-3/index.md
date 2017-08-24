@@ -13,12 +13,12 @@ Over the course of the last decades, the majority of the sets produced by LEGO w
 
 
 
----
+
 
 
 ![](print_business4.png)
 
----
+
  
 
 
@@ -31,7 +31,7 @@ In 1950, LEGO used ten colors for its bricks. Today, the LEGO sets include brick
 
 
 
----
+
 
 
 ![](color2.png)
