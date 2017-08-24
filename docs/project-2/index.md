@@ -20,13 +20,13 @@ As Morreall puts it “The Incongruity Theory says that it is the perception of 
 
 In sequence to this theory, my emotion analysis showed that positivity slightly influences the ratings of jokes by the users, while negativity didn’t play any role in their ratings. The surprise was the emotion that seemed to play some role, with jokes that have an increased level of surprise to be rated better than other. Finally, and surprisingly, the level of anticipation of the jokes was not only unimportant, but seemed to play a negative role in the ratings. 
 
----
+
 
 
 ![](scatter3.png)
 
 
----
+
 
 The two most positive jokes are considered the following:
 
@@ -58,40 +58,40 @@ The joke with the highest level of anticipation is considered:
 ![](bill.png)
 
 
----
+
 
 
 To explore further the question what makes a popular joke I clustered the jokes in different categories using a machine learning tool that automatically groups similar objects into sets and I present the ratings of the jokes in each group. 
 
----
+
 
 
 ![](scatter2.png)
 
 
----
+
 
  
 As this graph shows, groups 7 and 8 received higher ratings than the rest of groups of jokes. Group 7 was characterized by words such as “father, school, little, boy, teacher, son, mother” – words that indicate that the topic is related to the family. However, the topics of some groups were more difficult to identify than others. Group 8 was characterized by words such as “engineer, hell, parrot”. Similarly, groups 1, 3 and 6 did not include words that point to one specific topic. On the other hand group 2 was related to the topic of death, group 9 was mainly mentioning the words “woman, man” and the topic of group 10 was related to doctors and diseases. Finally, the jokes of group 4 were usually following the format “What’s the difference…?”, while those of group 5 “How many … does it take to …?”.
 
 In the following graph we can see the most popular jokes by topic/group. 
 
----
+
 
 
 ![](scatter2long.png)
 
 
----
+
 
 
 Surprisingly, the majority of these jokes include long texts. Most people believe that a good joke is a short joke. However, this doesn’t seem to be the case. 
 
----
+
 
 
 ![](bar.png)
 
 
----
+
 
