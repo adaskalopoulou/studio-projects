@@ -79,7 +79,7 @@ In the following graph we can see the most popular jokes by topic/group.
 
 
 
-![](scatter2long.png)
+![](scatter2white.png)
 
 
 
