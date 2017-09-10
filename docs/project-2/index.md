@@ -4,7 +4,7 @@
 
 Most people rate humor as an important ingredient of life. For example, when asked to point out the most crucial traits of a spouse they usually put the “sense of humor” near the top. Given that humor is such a powerful tool for social success, what are the necessary conditions for something to be funny?
 
-In quest of answers to this question, we looked at a UC Berkeley’s database that contains around 6 million ratings of 150 jokes from more than 100,000 anonymous users. From 1999 to 2009, [Jester](http://eigentaste.berkeley.edu/), the website built by Berkeley’s Laboratory for Automation Science and Engineering asks users to rate a list of jokes. In this analysis, we looked at the most complete set of ratings that were collected between 2006 – 2009. 
+In quest of answers to this question, we looked at a UC Berkeley’s database that contains around 6 million ratings of 150 jokes from more than 100,000 anonymous users. From 1999 to 2009, [Jester](http://eigentaste.berkeley.edu/ target="_blank), the website built by Berkeley’s Laboratory for Automation Science and Engineering asks users to rate a list of jokes. In this analysis, we looked at the most complete set of ratings that were collected between 2006 – 2009. 
 
 Scientists have come up with many theories but not with definitive answers about the perfect formula for funny. The three leading theories, as listed in the Stanford Encyclopedia of Philosophy, are the Superiority Theory, the Relief Theory and the Incongruity Theory. 
 
