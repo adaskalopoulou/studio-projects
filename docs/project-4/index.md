@@ -1,7 +1,7 @@
 
 # What seniors should learn from freshmen?
 
-As the beginning of the academic year approaches, what should students prepare for or be cautious about during the upcoming months? In this project I analysed data collected by MIT’s Human Dynamics Laboratory (http://hd.media.mit.edu/) which cover the dynamics of 70 residents of an undergraduate dormitory during the academic year 2008-2009. This dataset contains surveys and sensor data about the diffusion of political opinions, diet, exercise, obesity, eating habits, epidemiological contagion, depression and stress, among the students. 
+As the beginning of the academic year approaches, what should students prepare for or be cautious about during the upcoming months? In this project I analysed data collected by  <a href="http://hd.media.mit.edu/" target="_blank">MIT’s Human Dynamics Laboratory</a> which cover the dynamics of 70 residents of an undergraduate dormitory during the academic year 2008-2009. This dataset contains surveys and sensor data about the diffusion of political opinions, diet, exercise, obesity, eating habits, epidemiological contagion, depression and stress, among the students. 
 
 In this analysis I used data from self-reported surveys to investigate the diet habits, the frequency of exercise and the emotions of students during the four years of their studies. From a quick overview of the results freshmen play the most sports, sophomores gain the most weight, juniors are sad more often and seniors eat the least healthy food.
 
